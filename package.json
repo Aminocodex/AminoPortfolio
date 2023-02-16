@@ -1,22 +1,22 @@
 {
-  "name": "portfolio",
+  "name": "mobilefirstportfolio",
   "version": "1.0.0",
-  "description": "This is my portfolio",
+  "description": "📖 Microverse Portfolio project (Module 1)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aminocodex/Portfolio.git"
+    "url": "git+https://github.com/Aminocodex/mobileFirstPortfolio.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aminocodex/Portfolio/issues"
+    "url": "https://github.com/Aminocodex/mobileFirstPortfolio/issues"
   },
-  "homepage": "https://github.com/Aminocodex/Portfolio#readme",
+  "homepage": "https://github.com/Aminocodex/mobileFirstPortfolio#readme",
   "devDependencies": {
     "hint": "^2.0.0",
     "stylelint": "^13.13.1",
