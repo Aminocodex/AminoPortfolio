@@ -1,54 +1,238 @@
-📖 Microverse Portfolio project (Module 1)
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+    <br/>
 
+  <h3><b>📖 Microverse Portfolio project (Module 1)
+</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [📖 Microverse Portfolio project (Module 1)
+] <a name="about-project"></a>
+
+
+**[📖 Microverse Portfolio project (Module 1)
+]** is my portfolio for Microverse project
+## 🛠 Built With <a name="built-with"></a>
+
+HTML / CSS
+
+### Tech Stack <a name="tech-stack"></a>
+
+>Client
+HTML / CSS
+Key Features
 This is my mobile version of Portfolio project that is based on the Microverse student's template.
+<!-- Features -->
 
-🛠 Built With
+### Key Features <a name="key-features"></a>
 
-- HTML/CSS.
-- Linters.
-- GitHub/VSCode.
+> Describe between 1-3 key features of the application.
+
+- **Add HTML file**
+
+- **Add CSS file**
+
+- **Publish on GitHub**
 
 
-🚀 Live Demo
-- Soon 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-💻 Getting Started
+<!-- LIVE DEMO -->
 
-To get a local copy up and running, follow these steps.
+## 🚀 Live Demo <a name="live-demo"></a>
 
-Prerequisites
-- Internet connection.
-- Github.
-- VScode / Atom / sublime text or any text editor ready for programming languages.
-- Internet browser (GOOGLE Chrome recommanded).
+> Add a link to your deployed project.
+
+-- No deployed link yet
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> To get a local copy up and running, follow these steps.
+
+
+### Prerequisites
+
+In order to run this project you need:In order to run this project you need:
+◦ Installation of Git
+◦ Installation of NPM
+◦ A working browser
+◦ Internet connection
+◦ A code editor like Visual Studio Code
+◦ Installation of Live Server plugging in Visual Studio Code
+
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
 
 Setup
-Clone this repository to your desired folder.
+Clone this repository to your desired folder:
+follow the steps following the link on how to clone repo to a local machine : 
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-👤 Author
+<!--
+Example commands:
 
-GitHub: @Aminocodex
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
-🤝 Contributing
+### Install
+
+- N/A
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+- N/A
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+- N/A
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+- N/A
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Mourid Mohemmed el Amin**
+
+- GitHub: [@Aminocodex](https://github.com/Aminocodex)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+Features coming soon
+- **Add HTML file**
+
+- **Add CSS file**
+
+- **Publish on GitHub**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-(back to top)
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you like this project, give it a ⭐️.
+<!-- SUPPORT -->
 
-(back to top)
+## ⭐️ Show your support <a name="support"></a>
 
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
+> Write a message to encourage readers to support your project
 
-- a big thanks for anyone whose code was used to make this project operational
+If you like this project leave me a star
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-📝 License
-This project is MIT licensed.
+<!-- ACKNOWLEDGEMENTS -->
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank the microverse team
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
