@@ -32,7 +32,7 @@ body {
   background-color: #fff;
 }
 
-.header .container1 {
+.container1 {
   max-width: 375px;
   display: flex;
   flex-direction: column;
@@ -43,7 +43,7 @@ body {
   margin-right: 24px;
 }
 
-.header .container1 .textInfo #intro {
+.container1 .textInfo #intro {
   font-family: 'Poppins', sans-serif;
   font-style: bold;
   font-size: 2.7rem;
@@ -53,7 +53,7 @@ body {
   margin-top: 0;
 }
 
-.header p {
+.container1 p {
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
   line-height: 24px;
