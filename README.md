@@ -41,7 +41,6 @@
 ]** is my portfolio for Microverse project
 ## 🛠 Built With <a name="built-with"></a>
 
-HTML / CSS
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -52,8 +51,6 @@ This is my mobile version of Portfolio project that is based on the Microverse s
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Add HTML file**
 
@@ -67,8 +64,6 @@ This is my mobile version of Portfolio project that is based on the Microverse s
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 -- No deployed link yet
 
@@ -103,9 +98,14 @@ Example command:
 ### Setup
 
 Setup
-Clone this repository to your desired folder:
-follow the steps following the link on how to clone repo to a local machine : 
-https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+Open the GitHub repository page in your web browser.
+Click on the green "Code" button on the right-hand side of the page.
+In the "Clone" section, click on the clipboard icon to copy the repository URL to your clipboard.
+Open a command prompt or terminal window on your local computer.
+Navigate to the directory where you want to clone the repository (e.g., cd /path/to/directory).
+Type git clone followed by the repository URL you copied in step 3. For example, git clone https://github.com/Aminocodex/mobileFirstPortfolio.git
+Press Enter to execute the command. Git will create a new directory in your current location with the same name as the repository.
+You can then use git pull to update the repository with the latest changes, or git checkout to switch to a different branch.
 
 <!--
 Example commands:
@@ -118,7 +118,8 @@ Example commands:
 
 ### Install
 
-- N/A
+Please open the index.html file with a browser to run the project after cloning the project
+
 
 <!--
 Example command:
@@ -169,9 +170,8 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author<a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Mourid Mohemmed el Amin**
 
@@ -208,17 +208,14 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project leave me a star
+If you like this project leave me a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank the microverse team
 

@@ -7,6 +7,18 @@ body {
   width: 375px;
 }
 
+.firstPart {
+  max-width: 375px;
+  max-height: 718;
+  height: 100%;
+  background-image: url(img/header-shapes\ mobile.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-bottom-left-radius: 30px;
+
+}
+
 .navbar .container {
   display: flex;
   justify-content: space-between;
@@ -21,18 +33,8 @@ body {
   background-color: #fff;
 }
 
-.header {
-  max-width: 375px;
-  max-height: 604px;
-  height: 100%;
-  background-image: url(img/header-shapes\ mobile.png);
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  border-bottom-left-radius: 30px;
-}
 
-.header .container {
+.header .container1 {
   max-width: 375px;
   display: flex;
   flex-direction: column;
@@ -43,10 +45,11 @@ body {
   margin-right: 24px;
 }
 
-.header .container .textInfo h1 {
+.header .container1 .textInfo #intro {
   font-family: 'Poppins', sans-serif;
   font-style: bold;
   font-size: 2.7rem;
+  font-weight: 700;
   line-height: 52px;
   margin-bottom: 0;
   margin-top: 0;
