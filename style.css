@@ -101,8 +101,23 @@ ul {
   border-radius: 16px;
 }
 
+.icons .box {
+  display: flex;
+  background-color: #f7f7f9;
+  border-radius: 8px;
+  margin-left: 36px;
+  margin-right: 36px;
+  margin-bottom: 12px;
+  width: 303px;
+  height: 66.72px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  align-content: center;
+}
+
 .cardWorks .container .box {
-  margin: 16px ;
+  margin: 16px;
 }
 
 .head {
@@ -117,8 +132,8 @@ ul {
   font-size: 32px;
   font-weight: 700;
   line-height: 44px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 0;
+  margin-bottom: 0;
   margin-left: 16px;
   margin-right: 16px;
 }
@@ -131,7 +146,7 @@ ul {
 
 .uT ul {
   display: flex;
-  padding: 0px;
+  padding: 0;
   align-items: center;
   flex-wrap: nowrap;
   justify-content: flex-start;
@@ -142,17 +157,37 @@ ul {
   content: "";
 }
 
+.webSk li {
+  margin-right: 8px;
+  padding: 4px 12px;
+  align-items: left;
+  list-style: none;
+  background-color: #ebebff;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  color: #6070ff;
+}
+
+.uT ul li {
+  vertical-align: middle;
+  line-height: 16px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+}
+
 .uT ul li:not(:first-child) {
   list-style-type: circle;
-  list-style-size: 20px;
   color: gray;
   margin-left: 12px;
 }
 
-
 .uT ul li:first-child {
-   list-style-type: none;
-   font-family:'Poppins', sans-serif; 
+  list-style-type: none;
+  font-family: 'Poppins', sans-serif;
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
@@ -160,26 +195,33 @@ ul {
   margin-left: 1px;
 }
 
-.uT ul li {
-  vertical-align: middle;
-  line-height: 16px;
-  font-family:'Poppins', sans-serif;
-  font-size: 13px;
-  font-weight: 600;
-}
-
 .uT ul li:not(:first-child)::before {
-   content: "";
-   display: inline-block;
-   width: 10px;
-   height: 10px;
-   border-radius: 50%;
-   background-color: gray;
-   margin-right: 8px;
+  content: "";
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: gray;
+  margin-right: 8px;
 }
 
- .cardWorks .container p {
-  font-family:'Poppins', sans-serif;
+.aboutMe p {
+  font-family: 'Poppins', sans-serif, serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titleArrow p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.cardWorks .container p {
+  font-family: 'Poppins', sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 24px;
@@ -187,44 +229,46 @@ ul {
   font-style: normal;
   margin-left: 16px;
   margin-right: 16px;
- }
+}
 
- .webSk {
+.webSk {
   margin-left: 16px;
-  
- }
+}
 
 .webSk ul {
   display: flex;
-  padding: 0px;
+  padding: 0;
 }
 
-.webSk li {
-  margin-right: 8px;
-  padding: 4px 12px;
-  align-items: left;
-  list-style: none;
-  background-color:#EBEBFF ;
-  border-radius: 8px;
-  font-family:'Poppins', sans-serif;
-  font-size: 13px;
-  font-weight: 500;
-  line-height: 16px;
-  color: #6070ff;
-}
-
-.cardWorks .container .bt {
-  font-family: 'Poppins';
+.aboutMe .bt {
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
-  line-height: 24px; 
+  line-height: 24px;
   border: 1px solid #6070ff;
   border-radius: 8px;
   align-items: center;
   padding: 12px;
   gap: 10px;
-  color:#396df2;
+  color: #396df2;
+  margin-top: 5px;
+  margin-left: 16px;
+  background-color: #fff;
+}
+
+.cardWorks .container .bt {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  border: 1px solid #6070ff;
+  border-radius: 8px;
+  align-items: center;
+  padding: 12px;
+  gap: 10px;
+  color: #396df2;
   margin-top: 5px;
   margin-left: 16px;
 }
@@ -249,37 +293,13 @@ ul {
 
 .aboutMe .container .textInfo h1 {
   font-family: 'Poppins', sans-serif;
-    font-size: 3.7rem;
+  font-size: 3.7rem;
   font-weight: 800;
   line-height: 52px;
   margin-bottom: 0;
   margin-top: 0;
-  
 }
 
-.aboutMe p {
-  font-family: 'Poppins', sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 400;
-  font-style: normal;
-}
-.aboutMe .bt {
-  font-family: 'Poppins', sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 24px; 
-  border: 1px solid #6070ff;
-  border-radius: 8px;
-  align-items: center;
-  padding: 12px;
-  gap: 10px;
-  color:#396DF2;
-  margin-top: 5px;
-  margin-left: 16px;
-  background-color: #fff;
-}
 .aboutMe .head .twitter {
   order: 2;
 }
@@ -309,22 +329,6 @@ ul {
   margin-bottom: 36px;
 }
 
-.icons .box{
-  display: flex;
-  background-color: #f7f7f9;
-  border-radius: 8px;
-  margin-left: 36px;
-  margin-right: 36px;
-  margin-bottom: 12px;
-  width: 303px;
-  height: 66.72px;
-  align-items: center;
-  justify-content: flex-start;
-  flex-wrap: nowrap;
-  align-content: center;
-
-}
-
 .icons .box h2 {
   margin-left: 16px;
   font-family: 'Poppins', sans-serif;
@@ -337,7 +341,7 @@ ul {
 }
 
 .icons .box img {
-margin-left: 12px;
+  margin-left: 12px;
 }
 
 .lang .languages {
@@ -354,13 +358,6 @@ margin-left: 12px;
   margin-right: 66px;
   align-items: center;
   justify-items: center;
-}
-
-.titleArrow p {
-  font-family: 'Poppins', sans-serif;
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 20px;
 }
 
 hr {
