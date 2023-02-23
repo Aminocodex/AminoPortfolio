@@ -417,12 +417,14 @@ hr {
 }
 
 input {
-  width: 326px;
+  width: 300px;
   height: 48px;
   align-items: center;
   justify-content: center;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -458,6 +460,9 @@ form textarea {
 
 textarea::placeholder {
   color: #b3bac5;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
 }
 
 .contactmeul {
