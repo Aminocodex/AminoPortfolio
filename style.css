@@ -3,6 +3,7 @@
 body {
   color: #172b4d;
   background-color: #f7f7f9;
+  font-family: 'Poppins', sans-serif;
 }
 
 .firstPart {
@@ -74,7 +75,8 @@ body {
   margin-right: 19px;
 }
 
-ul {
+.hero {
+ 
   display: flex;
   list-style: none;
   align-items: center;
@@ -83,22 +85,27 @@ ul {
 
 .works {
   display: grid;
-  grid-template-rows: 552px 552px 552px 552px;
+  grid-template-rows: 552px 596px 552px 596px;
   width: 375px;
-  height: 2556px;
+  height: 2600px;
   padding-top: 144px;
   grid-row-gap: 88px;
+  margin-bottom: 114px;
 }
 
 .cardWorks {
+  box-sizing: border-box;
   width: 327px;
-  height: 552px;
+  height: auto;
   margin-left: 16px;
   margin-right: 16px;
+  align-items: center;
+  align-content: center;
   align-items: center;
   background: #fff;
   border: 1px solid #dfe1e6;
   border-radius: 16px;
+  padding-bottom: 40px;
 }
 
 .icons .box {
@@ -117,7 +124,7 @@ ul {
 }
 
 .cardWorks .container .box {
-  margin: 16px;
+  margin:0px 16px;
 }
 
 .head {
@@ -255,6 +262,7 @@ ul {
   margin-top: 5px;
   margin-left: 16px;
   background-color: #fff;
+  margin-bottom: 60px;
 }
 
 .cardWorks .container .bt {
@@ -267,15 +275,15 @@ ul {
   border-radius: 8px;
   align-items: center;
   padding: 12px;
-  gap: 10px;
   color: #396df2;
   margin-top: 5px;
   margin-left: 16px;
+  margin-bottom: 45px;
 }
 
 .aboutMe {
   width: 375px;
-  height: 1263px;
+  height: 100%;
   border-top-right-radius: 75px;
   background-color: #fff;
 }
@@ -364,3 +372,115 @@ hr {
   margin-left: 24px;
   margin-right: 24px;
 }
+.myForm{
+  height: 779px;
+  width: 375px;
+  background-image: url(img/mobile.svg);
+  background-size: 265px 732.17px;
+  background-repeat: no-repeat;
+  background-position-x: 129px;
+  background-position-y: 20px;
+  border-top-left-radius: 75px;
+  background-color: #6070ff;
+  color: #fff;
+  justify-content: center;
+  margin-top: 137.5px;
+  
+}
+.myForm h2 {
+  font-size: 40px;
+  font-style: bold;
+  line-height: 52px;
+  text-align: center;
+  margin-top: 103px;
+  margin-bottom: 12px;
+}
+
+.myForm p {
+  margin-left: 24px;
+  margin-right: 24px;
+  height: 102px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  color: #ebebff;
+  margin-top: 12px;
+  margin-bottom: 87px;
+}
+
+.containerForm {
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+}
+input{
+  width: 326px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #cfd8dc;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  margin-left: 24px;
+  margin-right: 24px;
+  
+  
+}
+
+input[type="text"] {
+  font-size: 18px;
+}
+
+input[type="email"] {
+  font-size: 18px;
+}
+
+form textarea {
+  width: 329px;
+  height: 170px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #cfd8dc;
+  border-radius: 8px;
+  margin-right: 24px;
+  margin-left: 24px;
+  margin-bottom: 20px;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  padding: 16px 15px 38px 15px;
+  box-sizing: border-box;
+}
+
+textarea::placeholder {
+  color: #b3bac5;
+  
+ }
+
+.contactmeul {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;  
+}
+
+.myForm button {
+  width: 142px;
+  height: 48px;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  color: #6070ff;
+  font-size: 17px;
+  font-weight: 500;
+  background: #fff;
+  border: 1px solid #7f8cff;
+  margin-left: 24px;
+  margin-bottom: 45px;
+  
+}
+
