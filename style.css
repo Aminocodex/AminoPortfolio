@@ -5,7 +5,8 @@ body {
   background-color: #f7f7f9;
   font-family: 'Poppins', sans-serif;
 }
-.header{
+
+.header {
   width: 375px;
 }
 
@@ -125,8 +126,9 @@ body {
 }
 
 .cardWorks .container .box {
-  margin: 0px 16px;
+  margin: 0 16px;
 }
+
 .cardWorks .container {
   padding-top: 16px;
 }
@@ -477,6 +479,7 @@ textarea::placeholder {
   flex-direction: column;
   gap: 18px;
 }
+
 .myForm button {
   width: 142px;
   height: 48px;
