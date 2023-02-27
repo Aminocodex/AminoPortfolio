@@ -477,3 +477,28 @@ textarea::placeholder {
   flex-direction: column;
   gap: 18px;
 }
+.myForm button {
+  width: 142px;
+  height: 48px;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  color: #6070ff;
+  font-size: 17px;
+  font-weight: 500;
+  background: #fff;
+  border: 1px solid #7f8cff;
+  margin-left: 24px;
+  margin-bottom: 45px;
+}
+
+.myForm button:hover {
+  background: #6070ff;
+  box-shadow: 0 8px 16px #4053fc3d;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.myForm button:active {
+  background: #2230d2;
+  border-radius: 8px;
+}
