@@ -494,14 +494,3 @@ textarea::placeholder {
   margin-bottom: 45px;
 }
 
-.myForm button:hover {
-  background: #6070ff;
-  box-shadow: 0 8px 16px #4053fc3d;
-  border-radius: 8px;
-  color: #fff;
-}
-
-.myForm button:active {
-  background: #2230d2;
-  border-radius: 8px;
-}
