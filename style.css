@@ -302,6 +302,11 @@ body {
   margin-bottom: 45px;
 }
 
+.cardWorks .container .bt:hover {
+  background: #6070ff;
+  color: #fff;
+}
+
 .aboutMe {
   width: 375px;
   height: 100%;
