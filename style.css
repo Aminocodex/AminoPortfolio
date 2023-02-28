@@ -505,3 +505,18 @@ textarea::placeholder {
   background: #2230d2;
   border-radius: 8px;
 }
+
+.contact-title {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  height: 56px;
+  justify-content: center;
+  padding-top: 80px;
+}
