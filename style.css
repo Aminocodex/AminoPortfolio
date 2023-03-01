@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@500&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@500&family=Poppins:wght@300;400;500&display=swap');
 
 body {
   color: #172b4d;
@@ -410,7 +410,7 @@ hr {
 }
 
 .myForm {
-  height: 779px;
+  height: 790px;
   width: 375px;
   background-image: url(img/mobile.svg);
   background-size: 265px 732.17px;
@@ -497,6 +497,7 @@ textarea::placeholder {
   border: 1px solid #7f8cff;
   margin-left: 24px;
   margin-bottom: 45px;
+  margin-bottom: ;
 }
 
 .myForm button:hover {
@@ -523,5 +524,6 @@ textarea::placeholder {
   color: #fff;
   height: 56px;
   justify-content: center;
-  padding-top: 80px;
+  margin-top: 103px;
+  margin-bottom: 0;
 }
