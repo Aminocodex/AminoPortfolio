@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@500&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@500&family=Poppins:wght@300;400;500&display=swap');
 
 body {
   color: #172b4d;
   background-color: #f7f7f9;
   font-family: 'Poppins', sans-serif;
 }
-.header{
+
+.header {
   width: 375px;
 }
 
@@ -125,8 +126,9 @@ body {
 }
 
 .cardWorks .container .box {
-  margin: 0px 16px;
+  margin: 0 16px;
 }
+
 .cardWorks .container {
   padding-top: 16px;
 }
@@ -300,6 +302,11 @@ body {
   margin-bottom: 45px;
 }
 
+.cardWorks .container .bt:hover {
+  background: #6070ff;
+  color: #fff;
+}
+
 .aboutMe {
   width: 375px;
   height: 100%;
@@ -403,7 +410,7 @@ hr {
 }
 
 .myForm {
-  height: 779px;
+  height: 790px;
   width: 375px;
   background-image: url(img/mobile.svg);
   background-size: 265px 732.17px;
@@ -467,7 +474,7 @@ form textarea {
 
 textarea::placeholder {
   color: #b3bac5;
-  font-size: 15px;
+  font-size: 0.938rem;
   font-weight: 400;
   line-height: 24px;
 }
@@ -476,4 +483,46 @@ textarea::placeholder {
   display: flex;
   flex-direction: column;
   gap: 18px;
+}
+
+.myForm button {
+  width: 142px;
+  height: 48px;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  color: #6070ff;
+  font-size: 17px;
+  font-weight: 500;
+  background: #fff;
+  border: 1px solid #7f8cff;
+  margin-left: 24px;
+  margin-bottom: 45px;
+}
+
+.myForm button:hover {
+  background: #6070ff;
+  box-shadow: 0 8px 16px #4053fc3d;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.myForm button:active {
+  background: #2230d2;
+  border-radius: 8px;
+}
+
+.contact-title {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  height: 56px;
+  justify-content: center;
+  margin-top: 103px;
+  margin-bottom: 0;
 }
