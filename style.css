@@ -58,7 +58,7 @@ body {
 
 .container1 p {
   font-family: 'Poppins', sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 24px;
   font-weight: 400;
   font-style: normal;
@@ -68,7 +68,7 @@ body {
   margin-top: 0;
   margin-left: 24px;
   color: #7f8cff;
-  font-size: 16px;
+  font-size: 1rem;
   background: none;
   border: none;
   padding: 0 0;
@@ -142,7 +142,7 @@ body {
 
 .descHead {
   font-family: 'Poppins', sans-serif;
-  font-size: 32px;
+  font-size: 2rem;
   font-weight: 700;
   line-height: 44px;
   margin-top: 0;
@@ -178,7 +178,7 @@ body {
   background-color: #ebebff;
   border-radius: 8px;
   font-family: 'Poppins', sans-serif;
-  font-size: 13px;
+  font-size: 0.813rem;
   font-weight: 500;
   line-height: 16px;
   color: #6070ff;
@@ -188,7 +188,7 @@ body {
   vertical-align: middle;
   line-height: 16px;
   font-family: 'Poppins', sans-serif;
-  font-size: 13px;
+  font-size: 0.831rem;
   font-weight: 600;
 }
 
@@ -202,7 +202,7 @@ body {
   list-style-type: none;
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
-  font-size: 13px;
+  font-size: 0.813rem;
   line-height: 16px;
   color: #344563;
   margin-left: 1px;
@@ -220,7 +220,7 @@ body {
 
 .aboutMe p {
   font-family: 'Poppins', sans-serif, serif;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 24px;
   font-weight: 400;
   font-style: normal;
@@ -228,7 +228,7 @@ body {
 
 .titleArrow p {
   font-family: 'Poppins', sans-serif;
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: 500;
   line-height: 20px;
 }
@@ -240,7 +240,7 @@ body {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 1.25rem;
   line-height: 28px;
   text-align: center;
   color: #ebebff;
@@ -250,7 +250,7 @@ body {
 
 .cardWorks .container p {
   font-family: 'Poppins', sans-serif;
-  font-size: 15px;
+  font-size: 0.938rem;
   font-weight: 400;
   line-height: 24px;
   margin: 0;
@@ -272,7 +272,7 @@ body {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 17px;
+  font-size: 1.063rem;
   line-height: 24px;
   border: 1px solid #6070ff;
   border-radius: 8px;
@@ -290,7 +290,7 @@ body {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 17px;
+  font-size: 1.063rem;
   line-height: 24px;
   border: 1px solid #6070ff;
   border-radius: 8px;
@@ -356,7 +356,7 @@ body {
 
 .lang h2 {
   font-family: 'Poppins', sans-serif;
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: 500;
   line-height: 24px;
   margin-left: 36px;
@@ -364,7 +364,7 @@ body {
 }
 
 .myForm h2 {
-  font-size: 40px;
+  font-size: 2.5rem;
   font-style: bold;
   line-height: 52px;
   text-align: center;
@@ -375,7 +375,7 @@ body {
 .icons .box h2 {
   margin-left: 16px;
   font-family: 'Poppins', sans-serif;
-  font-size: 15px;
+  font-size: 0.938rem;
   font-weight: 500;
   line-height: 20px;
   align-items: center;
@@ -442,17 +442,17 @@ input {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 17px;
+  font-size: 1.063rem;
   margin-left: 24px;
   margin-right: 24px;
 }
 
 input[type="text"] {
-  font-size: 18px;
+  font-size: 1.125rem;
 }
 
 input[type="email"] {
-  font-size: 18px;
+  font-size: 1.125rem;
 }
 
 form textarea {
@@ -465,7 +465,7 @@ form textarea {
   margin-right: 24px;
   margin-left: 24px;
   margin-bottom: 20px;
-  font-size: 15px;
+  font-size: 0.938rem;
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
   padding: 16px 15px 38px 15px;
@@ -491,7 +491,7 @@ textarea::placeholder {
   border-radius: 8px;
   font-family: 'Poppins', sans-serif;
   color: #6070ff;
-  font-size: 17px;
+  font-size: 1.063rem;
   font-weight: 500;
   background: #fff;
   border: 1px solid #7f8cff;
@@ -515,7 +515,7 @@ textarea::placeholder {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 600;
-  font-size: 40px;
+  font-size: 2.5rem;
   line-height: 52px;
   display: flex;
   align-items: center;
@@ -526,3 +526,5 @@ textarea::placeholder {
   margin-top: 103px;
   margin-bottom: 0;
 }
+
+
