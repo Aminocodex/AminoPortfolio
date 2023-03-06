@@ -765,7 +765,6 @@ textarea::placeholder {
     height: 7.5rem;
     justify-content: left;
     flex-wrap: nowrap;
-    align-content: ;
   }
 
   .social {
@@ -914,7 +913,6 @@ textarea::placeholder {
 
   .aboutMe {
     display: flex;
-    justify-content: ;
     align-items: flex-start;
     width: 100vw;
     height: 51.75rem;
@@ -1047,7 +1045,6 @@ textarea::placeholder {
     border-color: #dfe1e6;
   }
 
-
   /* form Starts Here */
 
   .myForm {
@@ -1070,8 +1067,6 @@ textarea::placeholder {
     align-items: center;
     flex-direction: column;
   }
-
-
 
   input {
     width: 447px;
