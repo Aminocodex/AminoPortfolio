@@ -34,7 +34,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [📖 Microverse Portfolio project (Module 1)
-] <a name="about-project"></a>
+] <a name="about-project">add a contact form and finish the mobile version</a>
 
 
 **[📖 Microverse Portfolio project (Module 1)
@@ -173,6 +173,11 @@ Example:
 
 - GitHub: [@Aminocodex](https://github.com/Aminocodex)
 
+👤 **khaled alaa**
+
+- GitHub: [Khaled-Alaa-1](https://github.com/Khaled-Alaa-1)
+- Twitter: [@Khaled86756991](https://twitter.com/Khaled86756991)
+- LinkedIn: [Khaled Alaa](https://www.linkedin.com/in/khaled-alaa-594bb9256/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
