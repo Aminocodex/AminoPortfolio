@@ -4,6 +4,7 @@ body {
   color: #172b4d;
   background-color: #f7f7f9;
   font-family: 'Poppins', sans-serif;
+  margin: unset;
 }
 
 .firstPart {
