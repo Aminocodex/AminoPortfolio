@@ -59,6 +59,7 @@ This is my mobile version of Portfolio project that is based on the Microverse s
 - **Publish on GitHub**
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -152,7 +153,7 @@ Example command:
 
 ### Deployment
 
-- N/A
+- <a href="aminocodex.github.io/AminoPortfolio/">Amino Portfolio</a>
 
 <!--
 Example:
