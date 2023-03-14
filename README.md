@@ -153,7 +153,7 @@ Example command:
 
 ### Deployment
 
-- <a href="https://aminocodex.github.io/AminoPortfolio/">Amino Portfolio</a>
+-N/A
 
 <!--
 Example:
