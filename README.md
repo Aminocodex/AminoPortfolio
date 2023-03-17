@@ -2,7 +2,7 @@
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
     <br/>
 
-  <h3><b>📖 Microverse Portfolio project (Module 1) </b></h3>
+  <h3><b> Microverse Portfolio project (Module 1) </b></h3>
 
 </div>
 
@@ -74,7 +74,7 @@ This is my mobile version of Portfolio project that is based on the Microverse s
 
 ### Prerequisites
 
-In order to run this project you need:In order to run this project you need:
+In order to run this project you need: In order to run this project you need:
 ◦ Installation of Git
 ◦ Installation of NPM
 ◦ A working browser
