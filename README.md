@@ -2,8 +2,7 @@
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
     <br/>
 
-  <h3><b>📖 Microverse Portfolio project (Module 1)
-</b></h3>
+  <h3><b> Microverse Portfolio project (Module 1) </b></h3>
 
 </div>
 
@@ -33,12 +32,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [📖 Microverse Portfolio project (Module 1)
-] <a name="about-project">add a contact form and finish the mobile version</a>
+# 📖 [📖 Microverse Portfolio project (Module 1)]
+
+ <a name="about-project">add a contact form and finish the mobile version</a>
 
 
-**[📖 Microverse Portfolio project (Module 1)
-]** is my portfolio for Microverse project
+**[📖 Microverse Portfolio project (Module 1)]** is my portfolio for Microverse project
 ## 🛠 Built With <a name="built-with"></a>
 
 
@@ -60,7 +59,7 @@ This is my mobile version of Portfolio project that is based on the Microverse s
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"> (<a href="#readme-top">back to top</a>) </p>
 
 <!-- LIVE DEMO -->
 
@@ -75,7 +74,7 @@ This is my mobile version of Portfolio project that is based on the Microverse s
 
 ### Prerequisites
 
-In order to run this project you need:In order to run this project you need:
+In order to run this project you need: In order to run this project you need:
 ◦ Installation of Git
 ◦ Installation of NPM
 ◦ A working browser
