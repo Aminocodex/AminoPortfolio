@@ -32,12 +32,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [📖 Microverse Portfolio project (Module 1)
-] <a name="about-project">add a contact form and finish the mobile version</a>
+# 📖 [📖 Microverse Portfolio project (Module 1)]
+
+ <a name="about-project">add a contact form and finish the mobile version</a>
 
 
-**[📖 Microverse Portfolio project (Module 1)
-]** is my portfolio for Microverse project
+**[📖 Microverse Portfolio project (Module 1)]** is my portfolio for Microverse project
 ## 🛠 Built With <a name="built-with"></a>
 
 
@@ -59,7 +59,7 @@ This is my mobile version of Portfolio project that is based on the Microverse s
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"> (<a href="#readme-top">back to top</a>) </p>
 
 <!-- LIVE DEMO -->
 
