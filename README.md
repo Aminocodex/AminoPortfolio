@@ -2,8 +2,7 @@
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
     <br/>
 
-  <h3><b>📖 Microverse Portfolio project (Module 1)
-</b></h3>
+  <h3><b>📖 Microverse Portfolio project (Module 1) </b></h3>
 
 </div>
 
